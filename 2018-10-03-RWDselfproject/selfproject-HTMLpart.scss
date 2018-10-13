@@ -15,28 +15,27 @@
 
     .Page {
         width: 1920px;
-        height: 1080px;
+        height: 980px;
         margin: 0 auto;
     }
     /* 各頁面寬高 */
 
     .Pages {
-        max-width: 1200px;
+        max-width: 60%;
         margin: 0 auto;
     } 
     /* 內文寬 */
 
     .title {
-        width: 100%;
-        background-color: #eee;
+        width: 60%;
+        margin:auto;
     }
      /* 標題寬高 */
 
     .titlefont {
-        margin: auto;
-        width: 50%;
+        width: 60%;
         font-size: $fontB;
-        text-align: center;
         letter-spacing: 30px;
+        color: #BB9E27;
     }
     /* 標體字設定 */
