@@ -1,0 +1,42 @@
+
+    $BGC:#000;
+    $fontB:40px;
+    $fontM:30px;
+    $fontS:18px;
+    $fontN:20px;
+
+    html{
+        @import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
+        margin: 0px;
+        background-color: $BGC;
+        font-family: ‘cwTeXYen’, sans-serif;
+        font-weight: 800;
+    }
+
+    .Page {
+        width: 1920px;
+        height: 1080px;
+        margin: 0 auto;
+    }
+    /* 各頁面寬高 */
+
+    .Pages {
+        max-width: 1200px;
+        margin: 0 auto;
+    } 
+    /* 內文寬 */
+
+    .title {
+        width: 100%;
+        background-color: #eee;
+    }
+     /* 標題寬高 */
+
+    .titlefont {
+        margin: auto;
+        width: 50%;
+        font-size: $fontB;
+        text-align: center;
+        letter-spacing: 30px;
+    }
+    /* 標體字設定 */
