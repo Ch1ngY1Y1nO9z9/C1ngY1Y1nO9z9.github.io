@@ -1,0 +1,15 @@
+html {
+  background-color: red;
+}
+
+div {
+  background-color: blue;
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+}
+
+.dd {
+  background-color: yellow;
+}
+/*# sourceMappingURL=test.css.map */

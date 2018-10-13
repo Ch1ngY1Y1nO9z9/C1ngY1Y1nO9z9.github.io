@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": ";AAMI,AAAA,KAAK,CAAA;EACD,MAAM,EAAE,GAAG;EACX,gBAAgB,EAPf,IAAI;EAQL,WAAW,EAAE,wBAAwB;EACrC,WAAW,EAAE,GAAG;CACnB",
+    "sources": [
+        "selfprojectCSS.scss"
+    ],
+    "names": [],
+    "file": "selfprojectCSS.css"
+}
