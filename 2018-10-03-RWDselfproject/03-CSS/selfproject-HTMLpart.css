@@ -1,10 +1,12 @@
 @charset "UTF-8";
 @import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
 html {
-  margin: 0px;
-  background-color: #000;
   font-family: ‘cwTeXYen’, sans-serif;
   font-weight: 800;
+}
+
+body {
+  background-color: #000;
 }
 
 .B {
@@ -17,14 +19,17 @@ html {
 
 .T {
   font-size: 28pt;
+  color: #B59A2A;
 }
 
 .ST {
   font-size: 22px;
+  color: #9A8E5B;
 }
 
 .text {
   font-size: 12pt;
+  color: #67685A;
 }
 
 .pad {
@@ -37,5 +42,10 @@ html {
 
 .pad3 {
   padding-top: 7px;
+}
+
+.Page {
+  width: 100%;
+  height: 1080px;
 }
 /*# sourceMappingURL=selfproject-HTMLpart.css.map */

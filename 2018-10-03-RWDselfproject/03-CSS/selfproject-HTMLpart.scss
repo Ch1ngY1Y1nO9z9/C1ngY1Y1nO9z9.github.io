@@ -1,14 +1,17 @@
 
     $BGC:#000;
+    $text:#67685A;
+    $title:#B59A2A;
+    $smalltitle:#9A8E5B;
 
     html{
         @import url(https://fonts.googleapis.com/earlyaccess/cwtexyen.css);
-        margin: 0px;
-        background-color: $BGC;
         font-family: ‘cwTeXYen’, sans-serif;
         font-weight: 800;
     }
-
+    body{
+        background-color: $BGC;
+    }
     .B{
         font-weight: bold;
     }
@@ -17,12 +20,15 @@
     }
     .T{
         font-size:28pt;
+        color:$title;
     }
     .ST{
         font-size:22px;
+        color:$smalltitle;
     }
     .text{
         font-size:12pt;
+        color:$text;
     }
     .pad{
         padding-top:50px;
@@ -33,3 +39,8 @@
     .pad3{
         padding-top:7px;
     }
+    .Page{
+        width:100%;
+        height:1080px;
+    }
+    
