@@ -1,0 +1,135 @@
+.nav_bar {
+  background-color: white;
+  padding-left: 1%;
+}
+
+.nav_bar img {
+  float: left;
+  width: 80px;
+  height: 50px;
+}
+
+.nav_bar a {
+  float: left;
+  position: relative;
+  padding: 15px 20px;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.playnow {
+  float: right;
+  position: relative;
+  background-color: red;
+  height: 54px;
+}
+
+.playnow a {
+  text-decoration: none;
+  color: white;
+}
+
+.clearfloat {
+  clear: both;
+}
+
+.video_page1 {
+  position: absolute;
+  top: 54px;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  pointer-events: none;
+  width: 100%;
+}
+
+.BGV {
+  width: 100%;
+  height: 100%;
+}
+
+.LBox {
+  width: 100%;
+  height: 30%;
+  background-color: #eee;
+  margin-top: 1%;
+}
+
+.Sp {
+  width: 100%;
+  height: 48%;
+  background-color: #eee;
+  margin-top: 2%;
+}
+
+.swiper {
+  position: relative;
+  height: 60%;
+  width: 100%;
+}
+
+.swiper {
+  background: #eee;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.swiper-container {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.intro {
+  margin-top: 1%;
+  width: 100%;
+  height: 30%;
+  background-color: #eee;
+}
+
+.wire {
+  width: 100%;
+  background-color: #000;
+}
+
+.text1 {
+  float: left;
+}
+
+.text2 {
+  float: right;
+}
+
+.text3 {
+  float: right;
+  margin-bottom: 2%;
+  width: 30%;
+  height: 100%;
+  background-color: #eee;
+}
+
+.textS {
+  width: 60%;
+  height: 100%;
+  background-color: #eee;
+  margin-bottom: 10px;
+}
+/*# sourceMappingURL=selfproject-CSSpart.css.map */

@@ -7,31 +7,35 @@ html {
   font-weight: 800;
 }
 
-.Page {
-  max-width: 1140px;
-  height: 1080px;
-  margin: 0 auto;
+.B {
+  font-weight: bold;
 }
 
-/* 各頁面寬高 */
-.Pages {
-  width: 100%;
-  margin: 0 auto;
+.C {
+  text-align: center;
 }
 
-/* 內文寬 */
-.title {
-  width: 100%;
-  margin: auto;
+.T {
+  font-size: 28pt;
 }
 
-/* 標題寬高 */
-.titlefont {
-  width: 60%;
-  font-size: 40px;
-  letter-spacing: 30px;
-  color: #BB9E27;
+.ST {
+  font-size: 22px;
 }
 
-/* 標體字設定 */
+.text {
+  font-size: 12pt;
+}
+
+.pad {
+  padding-top: 50px;
+}
+
+.pad2 {
+  padding-top: 30px;
+}
+
+.pad3 {
+  padding-top: 7px;
+}
 /*# sourceMappingURL=selfproject-HTMLpart.css.map */
