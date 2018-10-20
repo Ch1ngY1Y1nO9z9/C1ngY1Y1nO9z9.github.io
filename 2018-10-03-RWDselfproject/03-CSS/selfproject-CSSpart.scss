@@ -53,8 +53,44 @@
 }
 
 
+
 // 第二頁
 
   .boxes{
       background-color: aqua
+  }
+
+//第三頁
+
+  .gamedesigner{
+      width: 300px;
+      height: 270px;
+      background-position: top;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-image: url("/2018-10-03-RWDselfproject/01-素材/遊戲總監.jpg");
+  }
+  .textbox{
+      width: 100%;
+  }
+  //第四頁
+.Platinum{
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      background-image: url("/2018-10-03-RWDselfproject/01-素材/PlatinumLarge.png");
+}
+.videobox{
+    width:720px;
+    height:480px;
+}
+
+  //footer
+  .blank{
+      background-color:#ECECEC;
+  }
+  footer{
+    background-color: white;
+    padding-left: 1%;
+    width:100%;
   }

@@ -12,14 +12,26 @@
     body{
         background-color: $BGC;
     }
+    .G{
+        color:#95A2C0;
+    }
+    .footer{
+        font-size:12px;
+    }
+
     .B{
         font-weight: bold;
     }
     .C{
         text-align: center;
     }
+    .R{
+        text-align: right;
+    }
+
+
     .T{
-        font-size:28pt;
+        font-size:28px;
         color:$title;
     }
     .ST{

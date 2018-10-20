@@ -9,6 +9,14 @@ body {
   background-color: #000;
 }
 
+.G {
+  color: #95A2C0;
+}
+
+.footer {
+  font-size: 12px;
+}
+
 .B {
   font-weight: bold;
 }
@@ -17,8 +25,12 @@ body {
   text-align: center;
 }
 
+.R {
+  text-align: right;
+}
+
 .T {
-  font-size: 28pt;
+  font-size: 28px;
   color: #B59A2A;
 }
 
