@@ -56,11 +56,126 @@
 
 // 第二頁
 
-  .boxes{
-      background-color: aqua
+  .LB{
+      width:100%;
+      height:300px;
+  }
+  .lb01{
+
+      height:100px;
+      margin:10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/2018-10-03-RWDselfproject/01-素材/introImg/design01.jpg");
   }
 
+  .lb02{
+  
+    height:100px;
+    margin:10px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("/2018-10-03-RWDselfproject/01-素材/introImg/design02.jpg");
+}
+    .lb03{
+
+    height:100px;
+    margin:10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/2018-10-03-RWDselfproject/01-素材/introImg/design03.jpg");
+}
+.lb04{
+
+    height:100px;
+    margin:10px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("/2018-10-03-RWDselfproject/01-素材/introImg/view01.jpg");
+}
+
+.lb05{
+
+  height:100px;
+  margin:10px;
+background-repeat: no-repeat;
+background-size: cover;
+background-image: url("/2018-10-03-RWDselfproject/01-素材/introImg/view02.jpg");
+}
+  .lb06{
+
+  height:100px;
+  margin:10px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("/2018-10-03-RWDselfproject/01-素材/introImg/view03.jpg");
+}
+.lb07{
+
+    height:100px;
+    margin:10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/2018-10-03-RWDselfproject/01-素材/introImg/view04.jpg");
+  }
+  .lb08{
+
+    height:100px;
+    margin:10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/2018-10-03-RWDselfproject/01-素材/introImg/warframe01.jpg");
+  }
+  .lb09{
+
+    height:100px;
+    margin:10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/2018-10-03-RWDselfproject/01-素材/introImg/warframe02.jpg");
+  }
+  .lb10{
+
+    height:100px;
+    margin:10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/2018-10-03-RWDselfproject/01-素材/introImg/warframe03.jpg");
+  }
+  .lb11{
+
+    height:100px;
+    margin:10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/2018-10-03-RWDselfproject/01-素材/introImg/warframe04.jpg");
+  }
+  .lb12{
+
+    height:100px;
+    margin:10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("/2018-10-03-RWDselfproject/01-素材/introImg/warframe05.jpg");
+  }
+
+
 //第三頁
+  .imgtext{
+      position: relative;
+  }
+
+  .imgtextbox{
+    position:absolute;
+    top:10%;
+    right:15%;
+    text-align: left;
+    float:right;
+    width:350px;
+    color:white;
+    font-size:14px;
+    line-height: 20px;
+  }
 
   .gamedesigner{
       width: 300px;
@@ -85,6 +200,10 @@
     height:480px;
 }
 
+.paddingbox{
+    height:15%;
+}
+
   //footer
   .blank{
       background-color:#ECECEC;
@@ -93,4 +212,8 @@
     background-color: white;
     padding-left: 1%;
     width:100%;
+  }
+  .BH{
+      width:100%;
+      height:100%;
   }

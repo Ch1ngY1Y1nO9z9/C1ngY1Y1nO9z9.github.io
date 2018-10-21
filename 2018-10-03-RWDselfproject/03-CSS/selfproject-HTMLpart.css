@@ -9,6 +9,26 @@ body {
   background-color: #000;
 }
 
+.swiper-container {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  background: #fff;
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
 .G {
   color: #95A2C0;
 }
@@ -45,19 +65,26 @@ body {
 }
 
 .pad {
+  width: 100%;
   padding-top: 50px;
 }
 
 .pad2 {
+  width: 100%;
   padding-top: 30px;
 }
 
 .pad3 {
+  width: 100%;
   padding-top: 7px;
 }
 
 .Page {
   width: 100%;
-  height: 1080px;
+  height: 980px;
+}
+
+.LH {
+  line-height: 42px;
 }
 /*# sourceMappingURL=selfproject-HTMLpart.css.map */
