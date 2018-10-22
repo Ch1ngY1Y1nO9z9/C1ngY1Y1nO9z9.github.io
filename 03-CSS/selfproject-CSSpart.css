@@ -192,19 +192,72 @@
   height: 480px;
 }
 
-.blank {
-  background-color: #ECECEC;
-}
-
-footer {
+.footer {
   background-color: white;
   padding-left: 1%;
   width: 100%;
-  height: 185px;
 }
 
-.BH {
-  width: 100%;
-  height: 100%;
+.footerSocial {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.footerSocial a {
+  display: inline-block;
+  margin-right: 7px;
+  margin-top: 5px;
+}
+
+.icons-fb {
+  background-repeat: no-repeat;
+  background-image: url("/01-素材/footerIcon/fb.png");
+  background-position: 0 0;
+  height: 34px;
+  width: 34px;
+}
+
+.icons-twitter {
+  background-repeat: no-repeat;
+  background-image: url("/01-素材/footerIcon/fb.png");
+  background-position: 0 -136px;
+  height: 34px;
+  width: 34px;
+}
+
+.icons-yt {
+  background-repeat: no-repeat;
+  background-image: url("/01-素材/footerIcon/fb.png");
+  background-position: 0 -204px;
+  height: 34px;
+  width: 34px;
+}
+
+.icons-insta {
+  background-repeat: no-repeat;
+  background-image: url("/01-素材/footerIcon/fb.png");
+  background-position: 0 -34px;
+  height: 34px;
+  width: 34px;
+}
+
+.icons-twitch {
+  background-repeat: no-repeat;
+  background-image: url("/01-素材/footerIcon/fb.png");
+  background-position: 0 -102px;
+  height: 34px;
+  width: 34px;
+}
+
+.icons-insta {
+  background-repeat: no-repeat;
+  background-image: url("/01-素材/footerIcon/fb.png");
+  background-position: 0 -68px;
+  height: 34px;
+  width: 34px;
+}
+
+.color a {
+  color: gray;
 }
 /*# sourceMappingURL=selfproject-CSSpart.css.map */
