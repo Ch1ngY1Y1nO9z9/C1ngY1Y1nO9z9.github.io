@@ -39,6 +39,9 @@
     .Ftext{
         font-size:15px;
     }
+    .Fstext{
+        font-size:14px;
+    }
 
     .B{
         font-weight: bold;
@@ -83,12 +86,18 @@
         width:100%;
         height:980px;
     }
+    .ML{
+        margin-left:15px;
+    }
 
     .LH{
         line-height:30px;
     }
     .LH2{
         line-height:25px;
+    }
+    .LH3{
+        line-height:12px;
     }
     .BR{
         border:1px solid #393F4F;
