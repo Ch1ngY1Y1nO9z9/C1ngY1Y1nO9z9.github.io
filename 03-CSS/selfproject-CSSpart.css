@@ -1,4 +1,8 @@
 @charset "UTF-8";
+.gold {
+  color: #B59A2A;
+}
+
 .nav_bar {
   background-color: white;
   padding-left: 1%;
@@ -11,10 +15,14 @@
   height: 50px;
 }
 
+.img {
+  width: 80px;
+  height: 50px;
+}
+
 .nav_bar a {
   float: left;
   position: relative;
-  padding: 15px 20px;
   font-size: 20px;
   text-decoration: none;
 }
@@ -27,6 +35,7 @@
 }
 
 .playnow a {
+  padding: 15px 20px;
   text-decoration: none;
   color: white;
 }
@@ -180,6 +189,10 @@
   width: 100%;
 }
 
+.textbox .black {
+  background-color: black;
+}
+
 .Platinum {
   background-position: center;
   background-repeat: no-repeat;
@@ -199,6 +212,18 @@
 
 .butt {
   margin-left: 15px;
+}
+
+.imgtextbox2 {
+  position: absolute;
+  bottom: 10%;
+  left: 80%;
+  text-align: left;
+  float: right;
+  width: 350px;
+  color: white;
+  font-size: 14px;
+  line-height: 20px;
 }
 
 .footer {
