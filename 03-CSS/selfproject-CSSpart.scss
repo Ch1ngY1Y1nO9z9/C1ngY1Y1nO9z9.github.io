@@ -46,18 +46,23 @@
 }
 
 .video_page1 {
+    width:100%;
+    height:100%;
     position: absolute;
     top: 54px;
     left: 0;
     bottom: 0;
     right: 0;
     pointer-events: none;
-    width: 100%;
+}
+.Page{
+    width:100%;
+    height:980px;
 }
 
-.BGV {
-    width: 100%;
-    height: 100%;
+.BGV{
+    width:100%;
+    height:100%;
 }
 
 
@@ -74,7 +79,7 @@
       margin:10px;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("/01-素材/introImg/design01.jpg");
+    background-image: url("/01-material/introImg/design01.jpg");
   }
 
   .lb02{
@@ -83,7 +88,7 @@
     margin:10px;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("/01-素材/introImg/design02.jpg");
+  background-image: url("/01-material/introImg/design02.jpg");
 }
     .lb03{
 
@@ -91,7 +96,7 @@
     margin:10px;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("/01-素材/introImg/design03.jpg");
+    background-image: url("/01-material/introImg/design03.jpg");
 }
 .lb04{
 
@@ -99,7 +104,7 @@
     margin:10px;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("/01-素材/introImg/view01.jpg");
+  background-image: url("/01-material/introImg/view01.jpg");
 }
 
 .lb05{
@@ -108,7 +113,7 @@
   margin:10px;
 background-repeat: no-repeat;
 background-size: cover;
-background-image: url("/01-素材/introImg/view02.jpg");
+background-image: url("/01-material/introImg/view02.jpg");
 }
   .lb06{
 
@@ -116,7 +121,7 @@ background-image: url("/01-素材/introImg/view02.jpg");
   margin:10px;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url("/01-素材/introImg/view03.jpg");
+  background-image: url("/01-material/introImg/view03.jpg");
 }
 .lb07{
 
@@ -124,7 +129,7 @@ background-image: url("/01-素材/introImg/view02.jpg");
     margin:10px;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("/01-素材/introImg/view04.jpg");
+    background-image: url("/01-material/introImg/view04.jpg");
   }
   .lb08{
 
@@ -132,7 +137,7 @@ background-image: url("/01-素材/introImg/view02.jpg");
     margin:10px;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("/01-素材/introImg/warframe01.jpg");
+    background-image: url("/01-material/introImg/warframe01.jpg");
   }
   .lb09{
 
@@ -140,7 +145,7 @@ background-image: url("/01-素材/introImg/view02.jpg");
     margin:10px;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("/01-素材/introImg/warframe02.jpg");
+    background-image: url("/01-material/introImg/warframe02.jpg");
   }
   .lb10{
 
@@ -148,7 +153,7 @@ background-image: url("/01-素材/introImg/view02.jpg");
     margin:10px;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("/01-素材/introImg/warframe03.jpg");
+    background-image: url("/01-material/introImg/warframe03.jpg");
   }
   .lb11{
 
@@ -156,7 +161,7 @@ background-image: url("/01-素材/introImg/view02.jpg");
     margin:10px;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("/01-素材/introImg/warframe04.jpg");
+    background-image: url("/01-material/introImg/warframe04.jpg");
   }
   .lb12{
 
@@ -164,7 +169,7 @@ background-image: url("/01-素材/introImg/view02.jpg");
     margin:10px;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("/01-素材/introImg/warframe05.jpg");
+    background-image: url("/01-material/introImg/warframe05.jpg");
   }
 
 
@@ -191,7 +196,7 @@ background-image: url("/01-素材/introImg/view02.jpg");
       background-position: top;
       background-repeat: no-repeat;
       background-size: cover;
-      background-image: url("/01-素材/遊戲總監.jpg");
+      background-image: url("/01-material/gamedesigner.jpg");
   }
   .textbox{
       width: 100%;
@@ -205,7 +210,7 @@ background-image: url("/01-素材/introImg/view02.jpg");
       background-position: center;
       background-repeat: no-repeat;
       background-size: contain;
-      background-image: url("/01-素材/PlatinumLarge.png");
+      background-image: url("/01-material/PlatinumLarge.png");
 }
 .videobox{
     width:720px;
@@ -249,7 +254,7 @@ background-image: url("/01-素材/introImg/view02.jpg");
 
     .icons-fb{
     background-repeat: no-repeat;
-    background-image: url("/01-素材/footerIcon/fb.png");
+    background-image: url("/01-material/footerIcon/fb.png");
     background-position: 0 0;
     height: 34px;
     width: 34px;
@@ -257,7 +262,7 @@ background-image: url("/01-素材/introImg/view02.jpg");
 
     .icons-twitter{
     background-repeat: no-repeat;
-    background-image: url("/01-素材/footerIcon/fb.png");
+    background-image: url("/01-material/footerIcon/fb.png");
     background-position: 0 -136px;    
     height: 34px;
     width: 34px;
@@ -265,7 +270,7 @@ background-image: url("/01-素材/introImg/view02.jpg");
 
     .icons-yt{
     background-repeat: no-repeat;
-    background-image: url("/01-素材/footerIcon/fb.png");
+    background-image: url("/01-material/footerIcon/fb.png");
     background-position: 0 -204px;
     height: 34px;
     width: 34px;
@@ -273,7 +278,7 @@ background-image: url("/01-素材/introImg/view02.jpg");
 
     .icons-insta{
     background-repeat: no-repeat;
-    background-image: url("/01-素材/footerIcon/fb.png");
+    background-image: url("/01-material/footerIcon/fb.png");
     background-position: 0 -34px;
     height: 34px;
     width: 34px;
@@ -281,7 +286,7 @@ background-image: url("/01-素材/introImg/view02.jpg");
 
     .icons-twitch{
     background-repeat: no-repeat;
-    background-image: url("/01-素材/footerIcon/fb.png");
+    background-image: url("/01-material/footerIcon/fb.png");
     background-position: 0 -102px;
     height: 34px;
     width: 34px;
@@ -289,7 +294,7 @@ background-image: url("/01-素材/introImg/view02.jpg");
 
     .icons-insta{
     background-repeat: no-repeat;
-    background-image: url("/01-素材/footerIcon/fb.png");
+    background-image: url("/01-material/footerIcon/fb.png");
     background-position: 0 -68px;
     height: 34px;
     width: 34px;
